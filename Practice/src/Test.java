@@ -7,6 +7,7 @@ public class Test {
 
 
     public static void main(String[] args) throws IOException {
+        //定义文件流
         String fileName = "E:\\hello.txt";
         File file = new File(fileName);
 
